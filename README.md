@@ -4,4 +4,4 @@ Minecraft Story game written in LC-3 Assembly for CS155. You can choose between 
 
 Inspired by Oregon Trail.
 
-Written on the [LC-3 Assembler]<https://github.com/chiragsakhuja/lc3tools>
+Written on the [LC-3 Assembler](https://github.com/chiragsakhuja/lc3tools)
